@@ -32,17 +32,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub İstatistiklerim
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedemincmn&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
 <p align="center">
   <i>Bu profil <b>Cloud-Native Mobile</b> vizyonuyla oluşturulmuştur.</i>
 </p>
