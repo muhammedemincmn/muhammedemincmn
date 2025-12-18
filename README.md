@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Merhaba, Ben Bir Bulut & Mobil Geliştiricisiyim! 👋</h1>
 
-<!--
-**muhammedemincmn/muhammedemincmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammedemincmn&label=Profil%20Ziyaretçileri&color=0e75b6&style=flat" alt="muhammedemincmn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>iOS (Swift)</b> ile kullanıcı dostu mobil deneyimler tasarlarken, <b>AWS</b> ile ölçeklenebilir bulut mimarileri kuruyorum.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Neler Yapıyorum?
+
+- 📱 **iOS Geliştirme:** Swift, SwiftUI ve UIKit ile modern mobil uygulamalar.
+- ☁️ **Bulut Mühendisliği:** AWS servisleri (EC2, Lambda, S3, DynamoDB) ve Serverless mimariler.
+- 🛠 **DevOps & Araçlar:** CI/CD süreçleri, Git ve Xcode.
+
+---
+
+### 🛠️ Teknoloji Yığınım (Tech Stack)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedemincmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedemincmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedemincmn&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+<p align="center">
+  <i>Bu profil <b>Cloud-Native Mobile</b> vizyonuyla oluşturulmuştur.</i>
+</p>
