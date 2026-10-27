@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Muhammed Emin Çimen — Ağ Teknolojileri</title>
+<desc id="desc">Koyu lacivert zemin üzerinde turkuaz bağlantılardan oluşan bir ağ topolojisi.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#10283b"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+<rect x="62" y="68" width="4" height="24" rx="2" fill="#2dd4bf"/>
+<text x="82" y="86" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#5eead4">AĞ TEKNOLOJİLERİ</text>
+<text x="60" y="169" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f0f9ff">Muhammed Emin Çimen</text>
+<text x="64" y="217" font-family="Arial, sans-serif" font-size="21" fill="#a8c5d8">Bağlantıların ardındaki sistemleri keşfediyorum.</text>
+<line x1="64" y1="256" x2="648" y2="256" stroke="#345166"/>
+<text x="64" y="298" font-family="Arial, sans-serif" font-size="16" fill="#d2e6f2">Ağ temelleri</text>
+<circle cx="187" cy="292" r="3" fill="#2dd4bf"/>
+<text x="206" y="298" font-family="Arial, sans-serif" font-size="16" fill="#d2e6f2">Protokoller</text>
+<circle cx="320" cy="292" r="3" fill="#2dd4bf"/>
+<text x="339" y="298" font-family="Arial, sans-serif" font-size="16" fill="#d2e6f2">Ağ güvenliği</text>
+<text x="64" y="366" font-family="monospace" font-size="14" fill="#6d96ae">github.com/muhammedemincmn</text>
+<g stroke="url(#line)" stroke-width="2" fill="none">
+<path d="M1008 202L858 108M1008 202L1153 104M1008 202L1164 307M1008 202L860 316M858 108L1153 104M860 316L1164 307" opacity=".55"/>
+<path d="M858 108L860 316M1153 104L1164 307" stroke-dasharray="5 9" opacity=".25"/>
+<circle cx="1008" cy="202" r="79" opacity=".09"/><circle cx="1008" cy="202" r="103" opacity=".06"/>
+</g>
+<g fill="#0d2233" stroke="#2dd4bf" stroke-width="2">
+<rect x="971" y="174" width="74" height="56" rx="13"/>
+<rect x="837" y="90" width="42" height="36" rx="8"/>
+<rect x="1132" y="86" width="42" height="36" rx="8"/>
+<rect x="839" y="298" width="42" height="36" rx="8"/>
+<rect x="1143" y="289" width="42" height="36" rx="8"/>
+</g>
+<g stroke="#99f6e4" stroke-width="2.5" fill="none" stroke-linecap="round">
+<path d="M990 194H1026M990 209H1010"/>
+<path d="M849 103H867M849 112H860M1144 99H1162M1144 108H1155M851 311H869M851 320H862M1155 302H1173M1155 311H1166"/>
+</g>
+<circle cx="1025" cy="209" r="3" fill="#2dd4bf"/>
+<g fill="#5eead4"><circle cx="930" cy="153" r="4"/><circle cx="1080" cy="153" r="4"/><circle cx="1084" cy="253" r="4"/><circle cx="934" cy="259" r="4"/></g>
+</svg>
