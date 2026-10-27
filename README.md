@@ -21,11 +21,17 @@ Bu profilde ağ teknolojileri üzerine öğrendiklerimi bir araya getirmeyi; not
 
 ## 🧭 Odaklandığım konular
 
-| 🌐 Temeli anlamak | 🔀 Bağlantıyı kurmak | 🛡️ İletişimi korumak |
-| :--- | :--- | :--- |
-| **TCP/IP &amp; OSI** | **Routing &amp; Switching** | **Ağ güvenliği** |
-| IP adresleme ve alt ağlar | Yönlendirme ve anahtarlama | Ağ bölgeleme |
-| Paketlerin yolculuğu | VLAN, DNS ve DHCP | Erişim kontrolü |
+### 🌐 Temeli anlamak
+**TCP/IP · OSI modeli · IP adresleme · Alt ağlar**  
+Paketlerin ağ üzerindeki yolculuğu.
+
+### 🔀 Bağlantıyı kurmak
+**Routing · Switching · VLAN · DNS · DHCP**  
+Cihazların ve ağların birbirleriyle iletişimi.
+
+### 🛡️ İletişimi korumak
+**Ağ güvenliği · Ağ bölgeleme · Erişim kontrolü**  
+Bağlantıları güvenli hâle getiren yaklaşımlar.
 
 ## 🗂️ Ağ günlüğüm
 
