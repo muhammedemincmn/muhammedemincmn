@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+<title id="title">Emin'in ağ günlüğü — terminal tanıtımı</title>
+<desc id="desc">Odak: bilgisayar ağları. Yaklaşım: öğren, dene, anla. Hedef: bağlantıların nasıl çalıştığını keşfetmek.</desc>
+<rect x="1" y="1" width="1098" height="298" rx="18" fill="#0b1423" stroke="#243749"/>
+<path d="M19 1H1081Q1099 1 1099 19V53H1V19Q1 1 19 1" fill="#142337"/>
+<g><circle cx="29" cy="27" r="6" fill="#fb7185"/><circle cx="51" cy="27" r="6" fill="#fbbf24"/><circle cx="73" cy="27" r="6" fill="#34d399"/></g>
+<text x="550" y="34" text-anchor="middle" font-family="monospace" font-size="19" fill="#a4bbcd">emin@network ~</text>
+<g font-family="monospace" font-size="25">
+<text x="34" y="100" fill="#5eead4">❯ <tspan fill="#e2edf7">cat hakkimda.txt</tspan></text>
+<text x="34" y="148" fill="#93b1c6">odak     <tspan fill="#f1f8ff">Bilgisayar ağları</tspan></text>
+<text x="34" y="192" fill="#93b1c6">yaklaşım <tspan fill="#f1f8ff">Öğren → Dene → Anla</tspan></text>
+<text x="34" y="236" fill="#93b1c6">hedef    <tspan fill="#f1f8ff">Bağlantıların ardındaki sistemi keşfetmek</tspan></text>
+<text x="34" y="278" fill="#5eead4">❯</text><rect x="65" y="258" width="13" height="23" fill="#5eead4"><animate attributeName="opacity" values="1;1;0;0" dur="1.4s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
